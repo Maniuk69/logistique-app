@@ -57,3 +57,4 @@ initializeApp().then(() => {
         console.log(`🔗 Test DB: http://localhost:${PORT}/api/test-db`);
     });
 });
+console.log('🔄 Version mise à jour - jeu. 31 juil. 2025 16:17:35 CEST');
